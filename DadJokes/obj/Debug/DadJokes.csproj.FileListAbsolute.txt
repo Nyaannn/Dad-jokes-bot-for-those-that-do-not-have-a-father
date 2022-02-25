@@ -1,0 +1,8 @@
+C:\Users\sinez\source\repos\DadJokes\DadJokes\bin\Debug\DadJokes.exe.config
+C:\Users\sinez\source\repos\DadJokes\DadJokes\bin\Debug\DadJokes.exe
+C:\Users\sinez\source\repos\DadJokes\DadJokes\bin\Debug\DadJokes.pdb
+C:\Users\sinez\source\repos\DadJokes\DadJokes\obj\Debug\DadJokes.csproj.AssemblyReference.cache
+C:\Users\sinez\source\repos\DadJokes\DadJokes\obj\Debug\DadJokes.csproj.SuggestedBindingRedirects.cache
+C:\Users\sinez\source\repos\DadJokes\DadJokes\obj\Debug\DadJokes.csproj.CoreCompileInputs.cache
+C:\Users\sinez\source\repos\DadJokes\DadJokes\obj\Debug\DadJokes.exe
+C:\Users\sinez\source\repos\DadJokes\DadJokes\obj\Debug\DadJokes.pdb
